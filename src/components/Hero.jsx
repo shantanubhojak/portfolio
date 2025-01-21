@@ -12,8 +12,8 @@ const Hero = () => {
       <div className='w-1 sm:h-80 h-40 violet-gradient' />
       </div>
       <div>
-        <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Piyush</span></h1>
-        <p className={`${styles.heroSubText} mt-2 text-white-100`}>I work in web development using a combination of front-end technologies like HTML, CSS, and JavaScript (with frameworks or libraries like React.js, Three.js and tailwind css).</p>
+        <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className='text-[#915eff]'>Shantanu</span></h1>
+        <p className={`${styles.heroSubText} mt-2 text-white-100`}>Hi , I am Shantanu from Uttarakhand, currently working as a Software Developer  with over one year of experience in salesforce App  development..</p>
       </div>
       </div>
       <ComputersCanvas />

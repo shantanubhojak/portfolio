@@ -16,6 +16,7 @@ import {
     figma,
     docker,
     meta,
+    cloudMatic,
     starbucks,
     tesla,
     shopify,
@@ -42,11 +43,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "SalesForce Developer",
       icon: mobile,
     },
     {
@@ -54,7 +55,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Problem Solver",
       icon: creator,
     },
   ];
@@ -116,65 +117,28 @@ import {
   
   const experiences = [
     {
-      title: "Web Developement",
-      company_name: "'GoFood' Food Delivery App",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2024 - June 2024",
-      points: [
-        "Full-Stack Food Delivery Application: Developed using the MERN stack (MongoDB, Express, React.js, Node.js).",
-        "Built responsive and user-friendly interfaces with React.js.",
-        "Managed efficient database operations and data handling using MongoDB.",
-        "Enhanced proficiency in full-stack development and deepened understanding of the MERN ecosystem.",
-      ],
-    },
-    {
-      title: "Web Developement",
-      company_name: "Brain ware AI Chatting App",
-      icon: tesla,
+      title: "Graduate Engineer Trainee- Salesforce",
+      company_name: "CloudMatic Soultions",
+      icon: cloudMatic,
       iconBg: "#E6DEDD",
-      date: "july 2024 - aug 2024",
+      date: "June 2023 - November 2023",
       points: [
-        "Designed and developed the landing page using React and Tailwind CSS.",
-        "Focused on building a responsive and visually appealing user interface with smooth interactions.",
-        "Demonstrated proficiency in modern front-end technologies and best practices.",
-        "Plan to enhance the app by integrating backend functionality for real-time messaging.",
+        "Created a Lightning web component for deleting and merging duplicate records of different objects, saving 100% costs compared to a charged services.",
+        "Orchestrated the development of Apex automation components like Flows and Triggers, ensuring comprehensive test coverage in the environment and yielding a 10% increase in test efficiency and 20% reduction in bugs detected.",
+        
       ],
     },
     {
-      title: "Web Development",
-      company_name: "Movie Database System",
-      icon: shopify,
+      title: "Software Developer - Salesforce",
+      company_name: "CloudMatic Soultions",
+      icon: cloudMatic,
       iconBg: "#383E56",
-      date: "Nov 2024 - Dec 2024",
+      date: "November 2023 - present",
       points: [
-        "Designed a web application that suggests movies based on user preferences.",
-        "Utilized HTML, CSS, and JavaScript, integrating an API to dynamically update the movie list.",
-        "Implemented user-friendly buttons and options for personalized recommendations.",
-        "Added functionality to watch trailers directly on the site for an enhanced experience.",
-        // <>
-        //   Direct link:{" "}
-        //   <a
-        //     href="https://movie-website-theta.vercel.app/"
-        //     target="_blank"
-        //     rel="noopener noreferrer"
-        //     style={{ color: "#007bff", textDecoration: "underline" }}
-        //   >
-        //   </a>
-        // </>,
-      ],
-    },
-    {
-      title: "Web Development Internship",
-      company_name: "Codsoft",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Sep 2023 - Oct 2023",
-      points: [
-        "Successfully completed a one-month certified internship focused on web development.",
-        "Developed and deployed three web application projects:-  PORTFOLIO , CALCULATOR ,  TO-DO LIST ",
-        "Shared project outcomes on LinkedIn to highlight skills and achievements.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Implemented integration between Salesforce and Zoho CRM, as well as Salesforce and Hubspot CRM, to establish two-way synchronization.",
+        "Responsible for designing and implementing Automation Components to automate business processes and improve efficiency.",
+        "Implemented caching functionality using the Lightning Data Service in a Lightning Web Component, resulting in a reduction of up to 20% in server fetching time.",
+        "Developed a retry mechanism that automatically executes at specified intervals if an API method call encounters an exception with the help of scheduled , batch Apex class.",
       ],
     },
   ];
