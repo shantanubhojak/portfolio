@@ -190,7 +190,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/piyusu/GoFood",
+      source_code_link: "https://github.com/shantanubhojak/GoFood",
     },
     {
       name: "BRAIWARE",
@@ -207,7 +207,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/piyusu/Braiware",
+      source_code_link: "https://github.com/shantanubhojak/Brainware",
     },
     {
       name: "MOVIE DATABASE",
@@ -228,7 +228,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/piyusu/Movie_Website",
+      source_code_link: "https://github.com/shantanubhojak/1500",
     },
   ];
   
