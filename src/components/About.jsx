@@ -47,14 +47,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-5xl leading-[30px]"
       >
-        Hi , I am Shantanu from Uttarakhand, currently working as a Software
-        Developer with over one year of experience in software development. I
+         I am Shantanu  currently working as a Software
+        Developer - Salesforce  with around 2  years of experience in software development. I
         have strong problem-solving skills and have achieved the rank of Knight
         on LeetCode, placing me in the top 2% worldwide. Additionally, I am a
-        quick learner , Specialist in Codeforces and have solved over 2000
+        quick learner and specialist in Codeforces and have solved over 2000
         problems across various coding platforms. My experience
-        includes working with C++, Apex, LWC , Git, React.js, Java, Node.js, Salesforce,
-        and SQL, and I have a solid understanding of Object Oriented Programming , Operating System and Data Structure And Algorithm. 
+        includes working with C++, Apex, LWC, Git, React.js, Java, Node.js, Salesforce,
+        and SQL, and I have a solid understanding of Object Oriented Programming, Operating System and Data Structure And Algorithm. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
