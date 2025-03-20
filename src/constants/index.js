@@ -47,7 +47,7 @@ import {
       icon: web,
     },
     {
-      title: "SalesForce Developer",
+      title: "Salesforce Developer",
       icon: mobile,
     },
     {
@@ -116,18 +116,7 @@ import {
   ];
   
   const experiences = [
-    {
-      title: "Graduate Engineer Trainee- Salesforce",
-      company_name: "CloudMatic Soultions",
-      icon: cloudMatic,
-      iconBg: "#E6DEDD",
-      date: "June 2023 - November 2023",
-      points: [
-        "Created a Lightning web component for deleting and merging duplicate records of different objects, saving 100% costs compared to a charged services.",
-        "Orchestrated the development of Apex automation components like Flows and Triggers, ensuring comprehensive test coverage in the environment and yielding a 10% increase in test efficiency and 20% reduction in bugs detected.",
-        
-      ],
-    },
+
     {
       title: "Software Developer - Salesforce",
       company_name: "CloudMatic Soultions",
@@ -141,6 +130,18 @@ import {
         "Developed a retry mechanism that automatically executes at specified intervals if an API method call encounters an exception with the help of scheduled , batch Apex class.",
       ],
     },
+    {
+      title: "Graduate Engineer Trainee- Salesforce",
+      company_name: "CloudMatic Soultions",
+      icon: cloudMatic,
+      iconBg: "#E6DEDD",
+      date: "June 2023 - November 2023",
+      points: [
+        "Created a Lightning web component for deleting and merging duplicate records of different objects, saving 100% costs compared to a charged services.",
+        "Orchestrated the development of Apex automation components like Flows and Triggers, ensuring comprehensive test coverage in the environment and yielding a 10% increase in test efficiency and 20% reduction in bugs detected.",
+        
+      ],
+    }
   ];
   
   const testimonials = [
@@ -172,25 +173,25 @@ import {
   
   const projects = [
     {
-      name: "GO FOOD",
+      name: "Contest Tracker ",
       description:
-        " Full-Stack Food Delivery Application: Developed using the MERN stack (MongoDB, Express, React.js, Node.js). Built responsive and user-friendly interfaces with React.js. ",
+        " A full-stack web application that tracks upcoming and past coding contests from LeetCode, CodeChef, and Codeforces. It features an automated email reminder system to send notifications before a contest. ",
       tags: [
         {
-          name: "react",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Express",
           color: "green-text-gradient",
         },
         {
-          name: "Express",
+          name: "Node",
           color: "pink-text-gradient",
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/shantanubhojak/GoFood",
+      source_code_link: "https://github.com/shantanubhojak/contest-tracker-app",
     },
     {
       name: "BRAIWARE",
@@ -215,7 +216,7 @@ import {
       "Designed a web application that suggests movies based on user preferences. Utilized HTML, CSS, and JavaScript, integrating an API to dynamically update the movie list..",
       tags: [
         {
-          name: "html",
+          name: "HTML",
           color: "blue-text-gradient",
         },
         {
@@ -223,12 +224,12 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/shantanubhojak/1500",
+      source_code_link: "https://github.com/shantanubhojak/Movies-Website",
     },
   ];
   

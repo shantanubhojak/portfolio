@@ -52,13 +52,9 @@ const About = () => {
         have strong problem-solving skills and have achieved the rank of Knight
         on LeetCode, placing me in the top 2% worldwide. Additionally, I am a
         quick learner , Specialist in Codeforces and have solved over 2000
-        problems across various coding platforms. I am interested in applying
-        for the role of Salesforce Developer in your firm. My experience
-        includes working with C++, Apex, LWC , Git, Java, NodeJs, Salesforce,
-        and SQL, and I have a solid understanding of OOPS, OS, and DSA. I
-        believe my skills align well with the job description, and I am
-        confident that my strengths will contribute to the enhanced productivity
-        and growth of the organization.
+        problems across various coding platforms. My experience
+        includes working with C++, Apex, LWC , Git, React.js, Java, Node.js, Salesforce,
+        and SQL, and I have a solid understanding of Object Oriented Programming , Operating System and Data Structure And Algorithm. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
