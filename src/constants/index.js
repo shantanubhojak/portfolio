@@ -119,7 +119,7 @@ import {
 
     {
       title: "Software Developer - Salesforce",
-      company_name: "CloudMatic Soultions",
+      company_name: "CloudMetic Solutions",
       icon: cloudMatic,
       iconBg: "#383E56",
       date: "November 2023 - present",
@@ -132,7 +132,7 @@ import {
     },
     {
       title: "Graduate Engineer Trainee- Salesforce",
-      company_name: "CloudMatic Soultions",
+      company_name: "CloudMetic Solutions",
       icon: cloudMatic,
       iconBg: "#E6DEDD",
       date: "June 2023 - November 2023",
@@ -147,7 +147,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it is Difficult to make a website as beautiful as our product, but Piyush proved me wrong.",
+        "I thought it is Difficult to make a website as beautiful as our product, but Shantanu proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -155,7 +155,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Piyush does.",
+        "I've never met a web developer who truly cares about their clients' success like Shantanu does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
