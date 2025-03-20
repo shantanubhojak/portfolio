@@ -34,16 +34,17 @@ const Contact = () => {
 
     emailjs
       .send(
-        service_z0dz73s,
-        template_av9vper,
+        "service_5h5f0k9",
+        "template_8fgp6s7",
         {
           from_name: form.name,
-          to_name: "Piyush Upadhyay",
+          to_name: "Shantanu Bhojak",
           from_email: form.email,
-          to_email: "piyush89332@gmail.com",
+          to_email: "shantanubhojak101@gmail.com",
           message: form.message,
         },
-        YHgyZ1OBdcfSRipkU
+        "0t54g-3I2o6qkdafl"
+        
       )
       .then(
         () => {
